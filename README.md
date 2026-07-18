@@ -71,7 +71,6 @@ fc-analytics-project/
 ├── charts/
 │   └── (exported PNG charts referenced in the notebook)
 ├── generate_data.py          # synthetic data generation script
-├── INTERVIEW_PREP.md         # my own talking-points cheat sheet for this project
 └── README.md
 ```
 
